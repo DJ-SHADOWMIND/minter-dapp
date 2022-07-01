@@ -4,5 +4,8 @@
   "description": "Generate an NFT collection and deploy a minting dapp easy!!",
   "scripts": {},
   "author": "Jesse Hall (codeSTACKr)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^13.5.2"
+  }
 }
