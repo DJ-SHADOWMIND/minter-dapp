@@ -1,7 +1,7 @@
 const contractAddress = "0xfd85539897a943cD91fbf47ceec072628Ee0D4E5"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the 'Alien Grunts'' NFT Project!!";
+const welcome_h1 = "Welcome to the 'Alien Grunts'' NFT Project!!"; 
 const welcome_h2 = "Connect to Coinbase or MetaMask to Get Started";
 const welcome_p = "The 'Alien Grunts' NFT Project is the second stop on DJ SHADOWMIND's NFT Roadmap.";
 const h1_presale_coming_soon = "Alien Grunts NFT Drop Coming Soon!!";
