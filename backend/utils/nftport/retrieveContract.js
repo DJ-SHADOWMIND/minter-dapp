@@ -40,6 +40,7 @@ const retrieveContract = async () => {
     console.log(`CATCH: Contract ${CONTRACT_NAME} deployment failed`, `ERROR: ${error}`);
   }
 };
+
 const retrieveABI = async (contract_address) => {
   try {
     const chain = CHAIN.toLowerCase();
